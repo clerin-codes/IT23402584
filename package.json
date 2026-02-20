@@ -1,0 +1,19 @@
+{
+  "name": "it23402584",
+  "version": "1.0.0",
+  "description": "LAB 03 Introduction to NodeJS and GitHub flow",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clerin-codes/IT23402584.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/clerin-codes/IT23402584/issues"
+  },
+  "homepage": "https://github.com/clerin-codes/IT23402584#readme"
+}
